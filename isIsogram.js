@@ -17,3 +17,5 @@ function assertEqual(actual, expected, testName) {
     }
     console.log('----------------------------------')
 }
+
+// --- Pruebas usando la función de aserción ---

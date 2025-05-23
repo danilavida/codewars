@@ -35,6 +35,4 @@ assertEqual(nbDig(25, 1), 11, 'Prueba #2 (n=25, d=1)')
 assertEqual(nbDig(0, 0), 1, 'Prueba #3 (n=0, d=0)')
 assertEqual(nbDig(5, 7), 0, 'Prueba #4 (n=5, d=7)')
 
-// Ejemplo de prueba con un número grande (tomado de los sample tests de Codewars si estuvieran visibles)
-// Supongamos que nbDig(5750, 0) debería dar 4700
 assertEqual(nbDig(5750, 0), 4700, 'Prueba #5 (n=5750, d=0)')
